@@ -19,40 +19,48 @@ This repository is intended for students and new programmers who want to learn C
 - Reading input from users
 - Performing calculations
 - Working with strings
+- String concatenation and string length
 - Writing and compiling simple C++ programs
 
 ## 📁 Topics & Programs
+
+This repository currently contains the following C++ programs:
 
 ### Basics and Output
 
 - `Hello.cpp` - Displays a basic greeting
 - `NewLines.cpp` - Prints multiple lines of text
 - `Print_Number.cpp` - Prints numbers
-- `Comments.cpp` - Demonstrates comments in C++
+- `Comments.cpp` - Demonstrates single-line and multi-line comments in C++
 
 ### Variables and Identifiers
 
-- `SingleVariable.cpp` - Declares and uses a variable
-- `MultipleVariable.cpp` - Works with multiple variables
-- `Identifiers.cpp` - Demonstrates valid identifiers
+- `SingleVariable.cpp` - Declares and uses a single variable
+- `MultipleVariable.cpp` - Declares and uses multiple variables
+- `Identifiers.cpp` - Demonstrates valid C++ identifiers
 - `Constants.cpp` - Uses constant values
 
 ### Data Types
 
 - `DataTypes.cpp` - Introduces common C++ data types
 - `MultipleDataTypes.cpp` - Uses multiple data types in one program
-- `NumericTypes.cpp` - Demonstrates numeric types
-- `AutoDetectDataTypes.cpp` - Uses automatic type deduction
+- `NumericTypes.cpp` - Demonstrates numeric data types
+- `AutoDetectDataTypes.cpp` - Uses automatic type deduction with `auto`
+
+### Strings
+
 - `String.cpp` - Works with text values
+- `StringConcatenation.cpp` - Combines multiple strings
+- `StringLength.cpp` - Finds the length of a string
 - `NumberAndString.cpp` - Performs number addition and string concatenation
 
 ### Operators
 
-- `ArithmeticOperators.cpp`
-- `ComparisonOperator.cpp`
-- `LogicalOperator.cpp`
-- `assingmentOperator.cpp`
-- `PrecdenceOperator.cpp`
+- `ArithmeticOperators.cpp` - Demonstrates arithmetic operators
+- `ComparisonOperator.cpp` - Demonstrates comparison operators
+- `LogicalOperator.cpp` - Demonstrates logical operators
+- `assingmentOperator.cpp` - Demonstrates assignment operators
+- `PrecdenceOperator.cpp` - Demonstrates operator precedence
 
 ### User Input and Calculations
 
@@ -118,12 +126,13 @@ HimankSingh
 
 If you are new to C++, follow the files in this order:
 
-1. Start with `Hello.cpp` and `NewLines.cpp`
-2. Learn variables using `SingleVariable.cpp` and `MultipleVariable.cpp`
-3. Study data types and strings
-4. Practice arithmetic and comparison operators
-5. Learn how to accept user input
-6. Combine input, variables, operators, and calculations in small programs
+1. Start with `Hello.cpp`, `NewLines.cpp`, `Print_Number.cpp`, and `Comments.cpp`
+2. Learn variables and identifiers using the programs in the Variables and Identifiers section
+3. Study data types using the programs in the Data Types section
+4. Practice strings with `String.cpp`, `StringConcatenation.cpp`, and `StringLength.cpp`
+5. Practice arithmetic, comparison, logical, assignment, and precedence operators
+6. Learn how to accept user input
+7. Combine input, variables, operators, and calculations in small programs
 
 ## ✅ Coding Practice Ideas
 
