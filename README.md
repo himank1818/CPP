@@ -1,62 +1,60 @@
+<!-- HEADER BANNER WITH DYNAMIC GRADIENT & WAVES -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=220&section=header&text=Modern%20C++%20Hub&fontSize=50&fontAlignY=38&desc=A%20Curated%20Laboratory%20for%20Core%20Fundamentals%20&%20Clean%20Code&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%"/>
+</div>
 
-# ⚡ Modern C++ Programming Hub
-
-<p align="center">
-  <strong>A curated, beginner-friendly laboratory for mastering core C++ fundamentals through clean, modular code.</strong>
-</p>
+<div align="center">
 
 [![C++ Standard](https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-F5A623?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-2EA44F?style=for-the-badge)](https://github.com/himank1818-droid/CPP/graphs/commit-activity)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-0969DA?style=for-the-badge&logo=git&logoColor=white)](#-contributing)
+[![Repo Status](https://img.shields.io/badge/Status-Active%20Practice-00C853?style=for-the-badge&logo=codeforces&logoColor=white)](#)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-7928CA?style=for-the-badge&logo=git&logoColor=white)](#-contributing)
 
 <br/>
 
-<a href="#-topics--directory">Browse Code</a> •
-<a href="#-quick-start">Quick Start</a> •
-<a href="#-learning-roadmap">Learning Roadmap</a> •
-<a href="#-contributing">Contribute</a>
+<kbd>[ 🚀 Quick Start ](#-quick-start)</kbd> • 
+<kbd>[ 📁 Browse Modules ](#-topics--directory)</kbd> • 
+<kbd>[ 🧭 Roadmap ](#-learning-roadmap)</kbd> • 
+<kbd>[ 🤝 Contribute ](#-contributing)</kbd>
 
 </div>
 
----
+<br/>
+
+<!-- REPO STATS / HERO CARDS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himank1818-droid&repo=CPP&theme=tokyonight&show_owner=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himank1818-droid&layout=compact&theme=tokyonight&langs_count=4" width="48%" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🎯 Repository Overview
 
 This repository provides bite-sized, practical C++ code examples engineered specifically for quick reference and academic practice. Each module isolates a single core concept to minimize friction during learning.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 💡 Core Focus Areas
-- Program anatomy and console I/O
-- Variables, constants, and type deduction (`auto`)
-- Memory layout & primitive types
-- Arithmetic, logical, and bitwise evaluation
-- Text manipulation via the `std::string` class
-- Interactive keyboard parsing & calculations
+| 💡 Core Focus Areas | 🛠️ Environment Specs |
+| :--- | :--- |
+| 🔹 **Program anatomy & console streams** (`cout`, `cin`) | ⚙️ **Standard:** Modern C++ (C++17 / C++20) |
+| 🔹 **Variables, constants & `auto` deduction** | 🖥️ **Compilers:** GCC / G++, Clang, MSVC |
+| 🔹 **Data layout, precision & primitive types** | 💻 **IDEs:** VS Code, CLion, Visual Studio |
+| 🔹 **Compound math, relational & logical operators** | 🐧 **Platform:** Windows, Linux, macOS |
+| 🔹 **String objects & character manipulation** | 📦 **Build:** Direct CLI & Makefile ready |
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 🛠️ Environment Specs
-- **Dialect:** Modern C++ (C++17 / C++20 compliant)
-- **Compilers:** GCC / G++, Clang, MSVC
-- **Tooling:** Visual Studio Code, CMake, Terminal CLI
-- **Platform:** Cross-platform (Windows, Linux, macOS)
+<br/>
 
-</td>
-</tr>
-</table>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📁 Topics & Directory
 
 <details open>
-<summary><b>1. Basics & Console Output</b></summary>
+<summary><b>🟢 01. Basics & Console Output</b></summary>
 <br/>
 
 | Program | Concept | Focus |
@@ -69,7 +67,7 @@ This repository provides bite-sized, practical C++ code examples engineered spec
 </details>
 
 <details open>
-<summary><b>2. Variables & Type Deductions</b></summary>
+<summary><b>🔵 02. Variables & Type Deductions</b></summary>
 <br/>
 
 | Program | Concept | Focus |
@@ -82,7 +80,7 @@ This repository provides bite-sized, practical C++ code examples engineered spec
 </details>
 
 <details open>
-<summary><b>3. Data Types & Storage</b></summary>
+<summary><b>🟣 03. Data Types & Storage</b></summary>
 <br/>
 
 | Program | Concept | Focus |
@@ -95,7 +93,7 @@ This repository provides bite-sized, practical C++ code examples engineered spec
 </details>
 
 <details>
-<summary><b>4. Strings & Text Processing</b></summary>
+<summary><b>🟡 04. Strings & Text Processing</b></summary>
 <br/>
 
 | Program | Concept | Focus |
@@ -108,7 +106,7 @@ This repository provides bite-sized, practical C++ code examples engineered spec
 </details>
 
 <details>
-<summary><b>5. Operators & Precedence</b></summary>
+<summary><b>🔴 05. Operators & Precedence</b></summary>
 <br/>
 
 | Program | Concept | Focus |
@@ -122,7 +120,7 @@ This repository provides bite-sized, practical C++ code examples engineered spec
 </details>
 
 <details>
-<summary><b>6. User Input & Dynamic Math</b></summary>
+<summary><b>🟠 06. User Input & Dynamic Calculations</b></summary>
 <br/>
 
 | Program | Concept | Focus |
@@ -132,11 +130,13 @@ This repository provides bite-sized, practical C++ code examples engineered spec
 
 </details>
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Quick Start
 
-### 1. Clone & Navigate
+### 1. Clone the Workspace
 ```bash
 git clone [https://github.com/himank1818-droid/CPP.git](https://github.com/himank1818-droid/CPP.git)
 cd CPP
