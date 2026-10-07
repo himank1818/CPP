@@ -1,15 +1,15 @@
-<!-- TOP BANNER WITH ANIMATED SHIMMER & WAVES -->
+<!-- TOP BANNER WITH TWINKLING WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=250&section=header&text=Modern%20C++%20Hub&fontSize=58&fontAlignY=36&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=220&section=header&text=Modern%20C++%20Hub&fontSize=52&fontAlignY=36&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-  <!-- TYPING TERMINAL ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&width=650&height=80&lines=⚡+Modern+C%2B%2B17%2F20+Syntax+%26+Concepts;🛠️+Zero-Overhead%2C+Clean+%26+Deterministic+Code;🚀+From+Console+Streams+to+Dynamic+Math" alt="Dynamic Terminal Typing" />
+  <!-- FIXED & ENCODED TYPING ANIMATION -->
+  <a href="https://github.com/himank1818-droid/CPP">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Modern+C%2B%2B17+and+C%2B%2B20+Core+Concepts;Zero-Overhead+Clean+and+Modular+Code;From+Standard+Streams+to+Dynamic+Math" alt="Typing Animation" />
   </a>
 
   <br/>
 
-  <!-- METRIC & STATUS SHIELDS -->
+  <!-- METRIC SHIELDS -->
   <p align="center">
     <img src="https://img.shields.io/badge/C%2B%2B-17%20%7C%2020%20%7C%2023-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Build-Passing-00E676?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -31,23 +31,23 @@
 
 <br/>
 
-<!-- ANIMATED CODING HERO ILLUSTRATION -->
+<!-- FEATURED TECH HERO -->
 <div align="center">
   <table border="0" style="border: none;">
     <tr>
-      <td width="50%" align="center" style="border: none;">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" alt="Coding Terminal Animation" style="border-radius: 12px;"/>
+      <td width="45%" align="center" style="border: none;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340px" alt="Coding Terminal Animation" style="border-radius: 12px;"/>
       </td>
-      <td width="50%" align="left" style="border: none; padding-left: 20px;">
+      <td width="55%" align="left" style="border: none; padding-left: 20px;">
         <h3>⚡ High Performance & Low-Level Control</h3>
-        <p>A structured laboratory for mastering fundamental logic, memory management, and modern C++ abstractions.</p>
+        <p>A structured laboratory for mastering fundamental logic, memory management, and modern C++ abstractions through clean, deterministic programs.</p>
         <p>
           🔹 <b>Compiled Execution:</b> Strict warning-clean code<br/>
           🔹 <b>Modular Scope:</b> One program, one isolated concept<br/>
           🔹 <b>Modern Standard:</b> Fully C++17/20 ready
         </p>
         <br/>
-        <img src="https://skillicons.dev/icons?i=cpp,c,cmake,vscode,bash,git" height="42" />
+        <img src="https://skillicons.dev/icons?i=cpp,c,cmake,vscode,bash,git" height="40" />
       </td>
     </tr>
   </table>
@@ -143,11 +143,11 @@
 ## 🚀 Quick Start
 
 ```bash
-# 1. Clone the repository
-git clone [https://github.com/himank1818/CPP.git](https://github.com/himank1818/CPP.git)
+# 1. Clone repository
+git clone [https://github.com/himank1818-droid/CPP.git](https://github.com/himank1818-droid/CPP.git)
 cd CPP
 
-# 2. Compile any program (with C++17 flags)
+# 2. Compile any source file (with C++17 flags)
 g++ -std=c++17 -Wall NumberAndString.cpp -o NumberAndString
 
 # 3. Execute
