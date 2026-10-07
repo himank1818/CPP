@@ -1,9 +1,21 @@
-# C++ Programming Repository 🚀
+<h1 align="center">🔵 C++ Programming Repository 🔴</h1>
 
-[![C++ Standard](https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-blue.svg)](https://en.cppreference.com/)
-[![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)](https://isocpp.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#-contributing)
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-2563EB?style=for-the-badge" alt="C++ Standard">
+  <img src="https://img.shields.io/badge/Learning-Beginner%20Friendly-DC2626?style=for-the-badge" alt="Beginner Friendly">
+  <img src="https://img.shields.io/badge/Practice-Daily-1D4ED8?style=for-the-badge" alt="Practice Daily">
+  <img src="https://img.shields.io/badge/Projects-Simple%20Examples-B91C1C?style=for-the-badge" alt="Simple Examples">
+</p>
+
+[![C++ Reference](https://img.shields.io/badge/Reference-cppreference-3B82F6.svg)](https://en.cppreference.com/)
+[![Language](https://img.shields.io/badge/language-C%2B%2B-E11D48.svg)](https://isocpp.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-1E40AF.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-DC2626.svg)](#-contributing)
+
+| 🔵 Learn Core Concepts | 🔴 Build Practice Confidence |
+|---|---|
+| Clear beginner examples | Hands-on C++ files for each topic |
+| Easy-to-follow progression | Simple programs you can run and modify |
 
 A beginner-friendly collection of C++ programs covering fundamental programming concepts, syntax, operators, variables, data types, strings, input, and calculations.
 
