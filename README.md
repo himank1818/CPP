@@ -1,169 +1,142 @@
-# C++ Programming Repository 🚀
+<div align="center">
 
-[![C++ Standard](https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-blue.svg)](https://en.cppreference.com/)
-[![Language](https://img.shields.io/badge/language-C%2B%2B-orange.svg)](https://isocpp.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](#-contributing)
+# ⚡ Modern C++ Programming Hub
 
-A beginner-friendly collection of C++ programs covering fundamental programming concepts, syntax, operators, variables, data types, strings, input, and calculations.
+<p align="center">
+  <strong>A curated, beginner-friendly laboratory for mastering core C++ fundamentals through clean, modular code.</strong>
+</p>
 
-This repository is intended for students and new programmers who want to learn C++ through short, easy-to-understand examples.
+[![C++ Standard](https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-F5A623?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-2EA44F?style=for-the-badge)](https://github.com/himank1818-droid/CPP/graphs/commit-activity)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-0969DA?style=for-the-badge&logo=git&logoColor=white)](#-contributing)
 
-## 📚 What You Will Learn
+<br/>
 
-- Basic C++ program structure
-- Printing output to the console
-- Variables, constants, and identifiers
-- Common data types
-- Arithmetic, comparison, logical, and assignment operators
-- Reading input from users
-- Performing calculations
-- Working with strings
-- String concatenation and string length
-- Writing and compiling simple C++ programs
+<a href="#-topics--directory">Browse Code</a> •
+<a href="#-quick-start">Quick Start</a> •
+<a href="#-learning-roadmap">Learning Roadmap</a> •
+<a href="#-contributing">Contribute</a>
 
-## 📁 Topics & Programs
+</div>
 
-This repository currently contains the following C++ programs:
+---
 
-### Basics and Output
+## 🎯 Repository Overview
 
-- `Hello.cpp` - Displays a basic greeting
-- `NewLines.cpp` - Prints multiple lines of text
-- `Print_Number.cpp` - Prints numbers
-- `Comments.cpp` - Demonstrates single-line and multi-line comments in C++
+This repository provides bite-sized, practical C++ code examples engineered specifically for quick reference and academic practice. Each module isolates a single core concept to minimize friction during learning.
 
-### Variables and Identifiers
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- `SingleVariable.cpp` - Declares and uses a single variable
-- `MultipleVariable.cpp` - Declares and uses multiple variables
-- `Identifiers.cpp` - Demonstrates valid C++ identifiers
-- `Constants.cpp` - Uses constant values
+### 💡 Core Focus Areas
+- Program anatomy and console I/O
+- Variables, constants, and type deduction (`auto`)
+- Memory layout & primitive types
+- Arithmetic, logical, and bitwise evaluation
+- Text manipulation via the `std::string` class
+- Interactive keyboard parsing & calculations
 
-### Data Types
+</td>
+<td width="50%" valign="top">
 
-- `DataTypes.cpp` - Introduces common C++ data types
-- `MultipleDataTypes.cpp` - Uses multiple data types in one program
-- `NumericTypes.cpp` - Demonstrates numeric data types
-- `AutoDetectDataTypes.cpp` - Uses automatic type deduction with `auto`
+### 🛠️ Environment Specs
+- **Dialect:** Modern C++ (C++17 / C++20 compliant)
+- **Compilers:** GCC / G++, Clang, MSVC
+- **Tooling:** Visual Studio Code, CMake, Terminal CLI
+- **Platform:** Cross-platform (Windows, Linux, macOS)
 
-### Strings
+</td>
+</tr>
+</table>
 
-- `String.cpp` - Works with text values
-- `StringConcatenation.cpp` - Combines multiple strings
-- `StringLength.cpp` - Finds the length of a string
-- `NumberAndString.cpp` - Performs number addition and string concatenation
+---
 
-### Operators
+## 📁 Topics & Directory
 
-- `ArithmeticOperators.cpp` - Demonstrates arithmetic operators
-- `ComparisonOperator.cpp` - Demonstrates comparison operators
-- `LogicalOperator.cpp` - Demonstrates logical operators
-- `assingmentOperator.cpp` - Demonstrates assignment operators
-- `PrecdenceOperator.cpp` - Demonstrates operator precedence
+<details open>
+<summary><b>1. Basics & Console Output</b></summary>
+<br/>
 
-### User Input and Calculations
+| Program | Concept | Focus |
+| :--- | :--- | :--- |
+| `Hello.cpp` | First Program | Standard stream output via `std::cout` |
+| `NewLines.cpp` | Line Control | Escape characters (`\n`) vs `std::endl` |
+| `Print_Number.cpp` | Literals | Direct output of numeric values |
+| `Comments.cpp` | Clean Code | Documentation standards (single & multi-line) |
 
-- `UserInput.cpp` - Reads values entered by the user
-- `UserCalculationbyInput.cpp` - Performs calculations using user input
+</details>
 
-## 🛠️ Requirements
+<details open>
+<summary><b>2. Variables & Type Deductions</b></summary>
+<br/>
 
-To run the programs, install a C++ compiler such as:
+| Program | Concept | Focus |
+| :--- | :--- | :--- |
+| `SingleVariable.cpp` | Memory Allocation | Single declaration & initialization |
+| `MultipleVariable.cpp` | Mass Declaration | Comma-separated variable initialization |
+| `Identifiers.cpp` | Syntax Rules | Valid/invalid identifier naming conventions |
+| `Constants.cpp` | Immutability | Lock-in values using `const` keyword |
 
-- [GCC](https://gcc.gnu.org/)
-- [Clang](https://clang.llvm.org/)
-- Microsoft Visual C++
+</details>
 
-You can also use an IDE such as Visual Studio Code, Code::Blocks, or Visual Studio.
+<details open>
+<summary><b>3. Data Types & Storage</b></summary>
+<br/>
 
-## 🚀 How to Run
+| Program | Concept | Focus |
+| :--- | :--- | :--- |
+| `DataTypes.cpp` | Primitives | `int`, `float`, `double`, `char`, `bool` |
+| `MultipleDataTypes.cpp` | Type Blending | Working with heterogeneous data in one scope |
+| `NumericTypes.cpp` | Precision | Floating point precision vs integer capacity |
+| `AutoDetectDataTypes.cpp`| Modern Deduction | Automatic inference using `auto` |
 
-1. Clone the repository:
+</details>
 
-   ```bash
-   git clone https://github.com/himank1818/CPP.git
-   cd CPP
-   ```
+<details>
+<summary><b>4. Strings & Text Processing</b></summary>
+<br/>
 
-2. Compile a C++ file using `g++`:
+| Program | Concept | Focus |
+| :--- | :--- | :--- |
+| `String.cpp` | Text Objects | Introduction to `std::string` |
+| `StringConcatenation.cpp` | String Math | Operator `+` vs `.append()` semantics |
+| `StringLength.cpp` | Buffer Size | Element count with `.length()` and `.size()` |
+| `NumberAndString.cpp` | Type Boundary | Disambiguating numeric `+` from string concatenation |
 
-   ```bash
-   g++ NewLines.cpp -o NewLines
-   ```
+</details>
 
-3. Run the compiled program:
+<details>
+<summary><b>5. Operators & Precedence</b></summary>
+<br/>
 
-   ```bash
-   ./NewLines
-   ```
+| Program | Concept | Focus |
+| :--- | :--- | :--- |
+| `ArithmeticOperators.cpp` | Math Ops | `+`, `-`, `*`, `/`, `%` |
+| `ComparisonOperator.cpp` | Relational Ops | Equality, relational boundaries (`==`, `!=`, `<`, `>`) |
+| `LogicalOperator.cpp` | Boolean Logic | Short-circuit evaluation (`&&`, `\|\|`, `!`) |
+| `assingmentOperator.cpp` | Compound Math | In-place updates (`+=`, `-=`, `*=`, `/=`) |
+| `PrecdenceOperator.cpp` | Order of Ops | PEMDAS/BODMAS execution orders & grouping |
 
-On Windows, run the executable with:
+</details>
 
+<details>
+<summary><b>6. User Input & Dynamic Math</b></summary>
+<br/>
+
+| Program | Concept | Focus |
+| :--- | :--- | :--- |
+| `UserInput.cpp` | Standard Stream | Extracting stream values with `std::cin` |
+| `UserCalculationbyInput.cpp` | Combined Logic | Interactive calculation from keyboard input |
+
+</details>
+
+---
+
+## 🚀 Quick Start
+
+### 1. Clone & Navigate
 ```bash
-NewLines.exe
-```
-
-You can compile any other file by replacing `NewLines.cpp` and `NewLines` with the desired filename.
-
-## 💡 Example
-
-The following command compiles and runs `NumberAndString.cpp`:
-
-```bash
-g++ NumberAndString.cpp -o NumberAndString
-./NumberAndString
-```
-
-Example output:
-
-```text
-The sum of x+y is :100
-HimankSingh
-```
-
-## 🧭 Suggested Learning Path
-
-If you are new to C++, follow the files in this order:
-
-1. Start with `Hello.cpp`, `NewLines.cpp`, `Print_Number.cpp`, and `Comments.cpp`
-2. Learn variables and identifiers using the programs in the Variables and Identifiers section
-3. Study data types using the programs in the Data Types section
-4. Practice strings with `String.cpp`, `StringConcatenation.cpp`, and `StringLength.cpp`
-5. Practice arithmetic, comparison, logical, assignment, and precedence operators
-6. Learn how to accept user input
-7. Combine input, variables, operators, and calculations in small programs
-
-## ✅ Coding Practice Ideas
-
-After reviewing the examples, try creating programs that:
-
-- Add, subtract, multiply, and divide two user-provided numbers
-- Convert Celsius to Fahrenheit
-- Calculate the area of a rectangle or circle
-- Check whether a number is positive, negative, or zero
-- Compare two strings
-- Calculate a student's average marks
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork this repository.
-2. Create a new branch for your change.
-3. Add or improve a C++ example.
-4. Test your program locally.
-5. Open a pull request with a clear description.
-
-Please keep examples simple, readable, and focused on one concept whenever possible.
-
-## 📖 Useful Resources
-
-- [C++ Reference](https://en.cppreference.com/)
-- [ISO C++](https://isocpp.org/)
-- [LearnCpp](https://www.learncpp.com/)
-- [GCC Documentation](https://gcc.gnu.org/onlinedocs/)
-
-## 📄 License
-
-This project is intended for learning and practice. See the [LICENSE](LICENSE) file for more information.
+git clone [https://github.com/himank1818-droid/CPP.git](https://github.com/himank1818-droid/CPP.git)
+cd CPP
