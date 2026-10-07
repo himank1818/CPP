@@ -1,35 +1,45 @@
-<!-- HEADER BANNER WITH DYNAMIC GRADIENT & WAVES -->
+<!-- TOP ANIMATED GRADIENT BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=220&section=header&text=Modern%20C++%20Hub&fontSize=50&fontAlignY=38&desc=A%20Curated%20Laboratory%20for%20Core%20Fundamentals%20&%20Clean%20Code&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=240&section=header&text=Modern%20C++%20Programming&fontSize=52&fontAlignY=36&animation=twinkling&fontColor=ffffff" width="100%"/>
+
+  <!-- TYPING SVG ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Master+C%2B%2B+from+Syntax+to+Execution;Clean%2C+Zero-Overhead+%26+Modular+Code;Designed+for+Fast+Reference+%26+Academic+Excellence" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- GLOWING PILL BADGES -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Standard-C%2B%2B17%20%7C%2020%20%7C%2023-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Actively%20Maintained-00E676?style=for-the-badge&logo=githubactions&logoColor=white" />
+    <img src="https://img.shields.io/badge/License-MIT-FFD600?style=for-the-badge&logo=opensourceinitiative&logoColor=black" />
+    <img src="https://img.shields.io/badge/PRs-Welcome-FF007F?style=for-the-badge&logo=git&logoColor=white" />
+  </p>
+
+  <!-- INTERACTIVE NAVIGATION BUTTONS -->
+  <p align="center">
+    <a href="#-topics--directory"><img src="https://img.shields.io/badge/📂_Browse_Topics-1A1B27?style=flat-square&logo=visualstudiocode&logoColor=cyan" height="26"/></a>
+    <a href="#-quick-start"><img src="https://img.shields.io/badge/⚡_Quick_Start-1A1B27?style=flat-square&logo=powershell&logoColor=yellow" height="26"/></a>
+    <a href="#-learning-roadmap"><img src="https://img.shields.io/badge/🧭_Roadmap-1A1B27?style=flat-square&logo=diagramsdotnet&logoColor=magenta" height="26"/></a>
+    <a href="#-contributing"><img src="https://img.shields.io/badge/🤝_Contribute-1A1B27?style=flat-square&logo=github&logoColor=green" height="26"/></a>
+  </p>
 </div>
 
-<div align="center">
-
-[![C++ Standard](https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-F5A623?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Repo Status](https://img.shields.io/badge/Status-Active%20Practice-00C853?style=for-the-badge&logo=codeforces&logoColor=white)](#)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-7928CA?style=for-the-badge&logo=git&logoColor=white)](#-contributing)
+<!-- NEON ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
 
 <br/>
 
-<kbd>[ 🚀 Quick Start ](#-quick-start)</kbd> • 
-<kbd>[ 📁 Browse Modules ](#-topics--directory)</kbd> • 
-<kbd>[ 🧭 Roadmap ](#-learning-roadmap)</kbd> • 
-<kbd>[ 🤝 Contribute ](#-contributing)</kbd>
-
-</div>
-
-<br/>
-
-<!-- REPO STATS / HERO CARDS -->
+<!-- ANIMATED REPO STATS & INSIGHTS CARDS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himank1818-droid&repo=CPP&theme=tokyonight&show_owner=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himank1818-droid&layout=compact&theme=tokyonight&langs_count=4" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himank1818-droid&repo=CPP&theme=radical&show_owner=true&border_color=00F0FF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himank1818-droid&layout=compact&theme=radical&langs_count=4&border_color=FF007F" width="49%" />
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
 
 ## 🎯 Repository Overview
 
@@ -37,19 +47,19 @@ This repository provides bite-sized, practical C++ code examples engineered spec
 
 <div align="center">
 
-| 💡 Core Focus Areas | 🛠️ Environment Specs |
+| 💡 Core Modules & Logic | 🛠️ Tooling & Architecture |
 | :--- | :--- |
-| 🔹 **Program anatomy & console streams** (`cout`, `cin`) | ⚙️ **Standard:** Modern C++ (C++17 / C++20) |
-| 🔹 **Variables, constants & `auto` deduction** | 🖥️ **Compilers:** GCC / G++, Clang, MSVC |
-| 🔹 **Data layout, precision & primitive types** | 💻 **IDEs:** VS Code, CLion, Visual Studio |
-| 🔹 **Compound math, relational & logical operators** | 🐧 **Platform:** Windows, Linux, macOS |
-| 🔹 **String objects & character manipulation** | 📦 **Build:** Direct CLI & Makefile ready |
+| 🔹 **Console Streams:** `std::cout`, `std::cin`, string buffers | ⚡ **Language:** ISO C++ (C++17 / C++20 Standard) |
+| 🔹 **Identifiers & Memory:** Primitive layouts, `const`, `auto` | ⚙️ **Compilers:** GCC / G++, Clang, MSVC |
+| 🔹 **Operator Precedence:** Arithmetic, relational & bitwise | 💻 **Editor:** VS Code, CLion, Visual Studio |
+| 🔹 **String Processing:** Manipulation via `std::string` class | 🐧 **Support:** Windows, Linux, macOS (Cross-platform) |
+| 🔹 **Dynamic Calculations:** User-driven numeric algorithms | 📦 **Execution:** Native CLI compilation pipeline |
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
 
 ## 📁 Topics & Directory
 
@@ -132,11 +142,11 @@ This repository provides bite-sized, practical C++ code examples engineered spec
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
 
 ## 🚀 Quick Start
 
-### 1. Clone the Workspace
+### 1. Clone & Enter Directory
 ```bash
 git clone [https://github.com/himank1818-droid/CPP.git](https://github.com/himank1818-droid/CPP.git)
 cd CPP
