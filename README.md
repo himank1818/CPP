@@ -1,21 +1,42 @@
 <h1 align="center">🔵 C++ Programming Repository 🔴</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-2563EB?style=for-the-badge" alt="C++ Standard">
+  <img src="https://img.shields.io/badge/C%2B%2B-17%2F20%2F23-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Standard">
   <img src="https://img.shields.io/badge/Learning-Beginner%20Friendly-DC2626?style=for-the-badge" alt="Beginner Friendly">
   <img src="https://img.shields.io/badge/Practice-Daily-1D4ED8?style=for-the-badge" alt="Practice Daily">
   <img src="https://img.shields.io/badge/Projects-Simple%20Examples-B91C1C?style=for-the-badge" alt="Simple Examples">
 </p>
 
-[![C++ Reference](https://img.shields.io/badge/Reference-cppreference-3B82F6.svg)](https://en.cppreference.com/)
-[![Language](https://img.shields.io/badge/language-C%2B%2B-E11D48.svg)](https://isocpp.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-1E40AF.svg)](LICENSE)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-DC2626.svg)](#-contributing)
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Blue%20%26%20Red-1E3A8A?style=flat-square">
+  <img src="https://img.shields.io/badge/Focus-Basics%20to%20Practice-991B1B?style=flat-square">
+  <img src="https://img.shields.io/badge/Level-Beginner-2563EB?style=flat-square">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-DC2626?style=flat-square">
+</p>
 
-| 🔵 Learn Core Concepts | 🔴 Build Practice Confidence |
-|---|---|
-| Clear beginner examples | Hands-on C++ files for each topic |
-| Easy-to-follow progression | Simple programs you can run and modify |
+<p align="center">
+  <a href="#-what-you-will-learn"><img src="https://img.shields.io/badge/📚%20Learn-1D4ED8?style=for-the-badge"></a>
+  <a href="#-topics--programs"><img src="https://img.shields.io/badge/📁%20Programs-B91C1C?style=for-the-badge"></a>
+  <a href="#-how-to-run"><img src="https://img.shields.io/badge/🚀%20Run-1D4ED8?style=for-the-badge"></a>
+  <a href="#-contributing"><img src="https://img.shields.io/badge/🤝%20Contribute-B91C1C?style=for-the-badge"></a>
+</p>
+
+<table>
+  <tr>
+    <td><strong>🔵 Learn Core Concepts</strong></td>
+    <td><strong>🔴 Build Practice Confidence</strong></td>
+  </tr>
+  <tr>
+    <td>Clear beginner examples</td>
+    <td>Hands-on C++ files for each topic</td>
+  </tr>
+  <tr>
+    <td>Easy-to-follow progression</td>
+    <td>Simple programs you can run and modify</td>
+  </tr>
+</table>
+
+> 🔵 Start from basics, 🔴 practice daily, and build strong C++ foundations step by step.
 
 A beginner-friendly collection of C++ programs covering fundamental programming concepts, syntax, operators, variables, data types, strings, input, and calculations.
 
