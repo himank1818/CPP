@@ -1,10 +1,10 @@
-<!-- HERO SECTION WITH TWINKLING WAVE & SHIMMER -->
+<!-- TOP BANNER WITH ANIMATED SHIMMER & WAVES -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=260&section=header&text=Modern%20C++%20Hub&fontSize=62&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=250&section=header&text=Modern%20C++%20Hub&fontSize=58&fontAlignY=36&animation=twinkling&fontColor=ffffff" width="100%"/>
 
-  <!-- ADVANCED MULTI-LINE TYPING TERMINAL -->
+  <!-- TYPING TERMINAL ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&width=650&height=80&lines=⚡+Modern+C%2B%2B17%2F20+Core+Architecture+%26+Concepts;🛠️+Zero-Overhead%2C+Clean+%26+Deterministic+Code;🚀+From+Standard+Streams+to+Dynamic+Calculations" alt="Dynamic Terminal Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=00F0FF&background=0D111700&center=true&vCenter=true&multiline=true&width=650&height=80&lines=⚡+Modern+C%2B%2B17%2F20+Syntax+%26+Concepts;🛠️+Zero-Overhead%2C+Clean+%26+Deterministic+Code;🚀+From+Console+Streams+to+Dynamic+Math" alt="Dynamic Terminal Typing" />
   </a>
 
   <br/>
@@ -17,34 +17,37 @@
     <img src="https://img.shields.io/badge/Contributions-Welcome-FF007F?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
-  <!-- QUICK JUMP PILLS -->
+  <!-- QUICK NAVIGATION PILLS -->
   <p align="center">
-    <a href="#-core-modules"><img src="https://img.shields.io/badge/📂_Modules-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F0FF&color=161b22"/></a>
-    <a href="#-quick-start"><img src="https://img.shields.io/badge/⚡_Execution-0d1117?style=for-the-badge&logo=gnubash&logoColor=FFD600&color=161b22"/></a>
-    <a href="#-architecture-flow"><img src="https://img.shields.io/badge/🧭_Roadmap-0d1117?style=for-the-badge&logo=diagramsdotnet&logoColor=FF007F&color=161b22"/></a>
-    <a href="#-interactive-practice"><img src="https://img.shields.io/badge/🎯_Lab_Practice-0d1117?style=for-the-badge&logo=codenewbie&logoColor=00E676&color=161b22"/></a>
+    <a href="#-topics--modules"><img src="https://img.shields.io/badge/📂_Browse_Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=00F0FF" height="28"/></a>
+    <a href="#-quick-start"><img src="https://img.shields.io/badge/⚡_Quick_Run-161b22?style=flat-square&logo=powershell&logoColor=FFD600" height="28"/></a>
+    <a href="#-architecture-flow"><img src="https://img.shields.io/badge/🧭_Roadmap-161b22?style=flat-square&logo=diagramsdotnet&logoColor=FF007F" height="28"/></a>
+    <a href="#-contributing"><img src="https://img.shields.io/badge/🤝_Contribute-161b22?style=flat-square&logo=github&logoColor=00E676" height="28"/></a>
   </p>
 </div>
 
-<!-- NEON SCANNER DIVIDER -->
+<!-- NEON RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
 
 <br/>
 
-<!-- DYNAMIC STATS & ACTIVITY DASHBOARD -->
+<!-- ANIMATED CODING HERO ILLUSTRATION -->
 <div align="center">
   <table border="0" style="border: none;">
     <tr>
-      <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=himank1818-droid&repo=CPP&theme=tokyonight&border_color=00F0FF&title_color=00F0FF&icon_color=FF007F" width="100%" />
+      <td width="50%" align="center" style="border: none;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" alt="Coding Terminal Animation" style="border-radius: 12px;"/>
       </td>
-      <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himank1818-droid&layout=compact&theme=tokyonight&border_color=FF007F&title_color=FF007F" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=himank1818-droid&theme=tokyonight&border=7928CA&stroke=00F0FF&ring=FF007F&fire=FFD600" width="100%" />
+      <td width="50%" align="left" style="border: none; padding-left: 20px;">
+        <h3>⚡ High Performance & Low-Level Control</h3>
+        <p>A structured laboratory for mastering fundamental logic, memory management, and modern C++ abstractions.</p>
+        <p>
+          🔹 <b>Compiled Execution:</b> Strict warning-clean code<br/>
+          🔹 <b>Modular Scope:</b> One program, one isolated concept<br/>
+          🔹 <b>Modern Standard:</b> Fully C++17/20 ready
+        </p>
+        <br/>
+        <img src="https://skillicons.dev/icons?i=cpp,c,cmake,vscode,bash,git" height="42" />
       </td>
     </tr>
   </table>
@@ -54,41 +57,18 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
 
-## 🛠️ Tooling & Tech Matrix
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cmake,vscode,powershell,bash,git,github" />
-</div>
-
-<br/>
-
-<div align="center">
-
-| Component | Target Standard | Primary Purpose |
-| :--- | :--- | :--- |
-| **Language Core** | ISO C++ (17/20) | High-performance, statically typed compiled execution |
-| **I/O Engine** | `<iostream>`, `<string>` | Console buffers, formatted stream I/O, string manipulation |
-| **Compilers** | GCC, Clang, MSVC | Cross-platform binary compilation and warning audits |
-| **Development** | VS Code & Terminal | Minimalist, terminal-driven modular code structure |
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
-
-## 📁 Core Modules
+## 📁 Topics & Modules
 
 <details open>
 <summary><b>🟢 01. Standard Streams & Console Fundamentals</b></summary>
 <br/>
 
-| Source File | Theoretical Anchor | Practical Behavior |
+| Source File | Core Topic | Implementation |
 | :--- | :--- | :--- |
-| `Hello.cpp` | Entry point & `std::cout` | Initializes execution, prints formatted stream |
-| `NewLines.cpp` | Buffer Flushing | Differences between newline `\n` and `std::endl` |
-| `Print_Number.cpp` | Value Literals | Console emission of integers and numeric constants |
-| `Comments.cpp` | Code Documentation | Implementation of `//` and `/* */` block comments |
+| `Hello.cpp` | Entry Point | Initializing console streams via `std::cout` |
+| `NewLines.cpp` | Buffer Control | Stream control via `\n` vs buffer-flushing `std::endl` |
+| `Print_Number.cpp` | Literal Values | Terminal emission of numbers and calculations |
+| `Comments.cpp` | Documentation | Clean single (`//`) and multi-line (`/* */`) syntax |
 
 </details>
 
@@ -96,12 +76,12 @@
 <summary><b>🔵 02. Variables, Memory & Invariants</b></summary>
 <br/>
 
-| Source File | Theoretical Anchor | Practical Behavior |
+| Source File | Core Topic | Implementation |
 | :--- | :--- | :--- |
-| `SingleVariable.cpp` | Stack Allocation | Declaring, defining, and assigning a single variable |
-| `MultipleVariable.cpp` | Sequence Initialization | Inline declaration across shared primitive types |
-| `Identifiers.cpp` | Token Grammar | Rules and restrictions for naming symbols in C++ |
-| `Constants.cpp` | Read-only Memory | Enforcing compile-time and runtime immutability via `const` |
+| `SingleVariable.cpp` | Stack Allocation | Declaring, defining, and assigning individual variables |
+| `MultipleVariable.cpp` | Sequence Memory | Initializing multiple variables of the same type inline |
+| `Identifiers.cpp` | Token Rules | Grammar constraints and naming standards in C++ |
+| `Constants.cpp` | Immutability | Enforcing read-only memory using `const` |
 
 </details>
 
@@ -109,25 +89,25 @@
 <summary><b>🟣 03. Data Representation & Auto Deduction</b></summary>
 <br/>
 
-| Source File | Theoretical Anchor | Practical Behavior |
+| Source File | Core Topic | Implementation |
 | :--- | :--- | :--- |
-| `DataTypes.cpp` | Primitive Types | Memory footprint of `int`, `float`, `double`, `char`, `bool` |
-| `MultipleDataTypes.cpp` | Compound Stacks | Managing multiple different data types within active scope |
-| `NumericTypes.cpp` | Precision Bounds | Signed, unsigned integers and precision tolerances |
-| `AutoDetectDataTypes.cpp`| Modern Inference | Compile-time type resolution using `auto` |
+| `DataTypes.cpp` | Primitive Types | Allocating `int`, `float`, `double`, `char`, `bool` |
+| `MultipleDataTypes.cpp` | Mixed Scopes | Interacting between diverse data types |
+| `NumericTypes.cpp` | Precision Bounds | Numerical limits, floating points, and bit allocations |
+| `AutoDetectDataTypes.cpp`| Modern Inference | Automatic compile-time type deduction with `auto` |
 
 </details>
 
 <details>
-<summary><b>🟡 04. String Objects & Manipulation</b></summary>
+<summary><b>🟡 04. Strings & Text Manipulation</b></summary>
 <br/>
 
-| Source File | Theoretical Anchor | Practical Behavior |
+| Source File | Core Topic | Implementation |
 | :--- | :--- | :--- |
-| `String.cpp` | String Literals | Allocating and handling dynamic character arrays |
-| `StringConcatenation.cpp` | Operator Overloading | Combining text streams via `+` operator and `.append()` |
-| `StringLength.cpp` | Buffer Inspection | Reading string length through `.size()` and `.length()` |
-| `NumberAndString.cpp` | Ambiguity Resolution | Numeric addition versus string concatenation behavior |
+| `String.cpp` | String Objects | Creating and handling dynamic string sequences |
+| `StringConcatenation.cpp` | String Math | Merging strings with `+` and `.append()` |
+| `StringLength.cpp` | Element Count | Calculating length using `.length()` and `.size()` |
+| `NumberAndString.cpp` | Type Boundary | Disambiguating string append vs numerical addition |
 
 </details>
 
@@ -135,24 +115,24 @@
 <summary><b>🔴 05. Expressions, Logic & Precedence</b></summary>
 <br/>
 
-| Source File | Theoretical Anchor | Practical Behavior |
+| Source File | Core Topic | Implementation |
 | :--- | :--- | :--- |
-| `ArithmeticOperators.cpp` | Mathematical Primitives | Division truncation, modulos, and sign rules |
-| `ComparisonOperator.cpp` | Boolean Relational | Evaluating inequality, strict bounds (`<`, `>`, `==`, `!=`) |
-| `LogicalOperator.cpp` | Short-Circuit Evaluation | Binary conditional logic (`&&`, `\|\|`, `!`) |
-| `assingmentOperator.cpp` | In-place Modification | Compound operators (`+=`, `-=`, `*=`, `/=`, `%=`) |
-| `PrecdenceOperator.cpp` | Operator Precedence | Precedence resolution and parenthesis grouping rules |
+| `ArithmeticOperators.cpp` | Math Primitives | Integer division, modulos (`%`), and arithmetic logic |
+| `ComparisonOperator.cpp` | Relational Logic| Boundary evaluations (`==`, `!=`, `<`, `>`, `<=`, `>=`) |
+| `LogicalOperator.cpp` | Conditional Logic | Short-circuit boolean logic (`&&`, `\|\|`, `!`) |
+| `assingmentOperator.cpp` | Compound Math | In-place modifications (`+=`, `-=`, `*=`, `/=`) |
+| `PrecdenceOperator.cpp` | Order of Ops | Evaluation orders, grouping, and associativity rules |
 
 </details>
 
 <details>
-<summary><b>🟠 06. Interactive Streams & Dynamic Calculations</b></summary>
+<summary><b>🟠 06. Interactive Input & Calculations</b></summary>
 <br/>
 
-| Source File | Theoretical Anchor | Practical Behavior |
+| Source File | Core Topic | Implementation |
 | :--- | :--- | :--- |
-| `UserInput.cpp` | Stream Parsing | Extracting keyboard inputs using `std::cin >>` |
-| `UserCalculationbyInput.cpp` | Dynamic Arithmetic | Real-time computation pipeline based on user values |
+| `UserInput.cpp` | Stream Ingestion | Reading user keyboard entries via `std::cin` |
+| `UserCalculationbyInput.cpp` | Dynamic Engine | Executing interactive math calculations from user input |
 
 </details>
 
@@ -162,7 +142,14 @@
 
 ## 🚀 Quick Start
 
-### 1. Clone Repository
 ```bash
-git clone [https://github.com/himank1818-droid/CPP.git](https://github.com/himank1818-droid/CPP.git)
+# 1. Clone the repository
+git clone [https://github.com/himank1818/CPP.git](https://github.com/himank1818/CPP.git)
 cd CPP
+
+# 2. Compile any program (with C++17 flags)
+g++ -std=c++17 -Wall NumberAndString.cpp -o NumberAndString
+
+# 3. Execute
+./NumberAndString        # Linux / macOS
+.\NumberAndString.exe    # Windows
