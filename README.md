@@ -1,155 +1,194 @@
-<!-- TOP BANNER WITH TWINKLING WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,24,30&height=220&section=header&text=Modern%20C++%20Hub&fontSize=52&fontAlignY=36&animation=twinkling&fontColor=ffffff" width="100%"/>
+# C++ Learning Repository
 
-  <!-- FIXED & ENCODED TYPING ANIMATION -->
-  <a href="https://github.com/himank1818-droid/CPP">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Modern+C%2B%2B17+and+C%2B%2B20+Core+Concepts;Zero-Overhead+Clean+and+Modular+Code;From+Standard+Streams+to+Dynamic+Math" alt="Typing Animation" />
-  </a>
+A structured collection of beginner-friendly C++ programs covering fundamentals, operators, input/output, functions, recursion, number problems, and pattern printing.
 
-  <br/>
+## 📚 What This Repository Covers
 
-  <!-- METRIC SHIELDS -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/C%2B%2B-17%20%7C%2020%20%7C%2023-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/Build-Passing-00E676?style=for-the-badge&logo=githubactions&logoColor=white" />
-    <img src="https://img.shields.io/badge/License-MIT-F5A623?style=for-the-badge&logo=opensourceinitiative&logoColor=black" />
-    <img src="https://img.shields.io/badge/Contributions-Welcome-FF007F?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
+- C++ program structure and console output
+- Variables, constants, identifiers, and data types
+- Strings and string operations
+- Arithmetic, comparison, logical, assignment, and precedence operators
+- User input and interactive calculations
+- Functions and reusable logic
+- Number-based problem solving
+- Loops, recursion, tracing, and call-stack understanding
+- Pattern printing with stars and numbers
+- Prime numbers, GCD, factorial, digits, Armstrong numbers, and more
 
-  <!-- QUICK NAVIGATION PILLS -->
-  <p align="center">
-    <a href="#-topics--modules"><img src="https://img.shields.io/badge/📂_Browse_Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=00F0FF" height="28"/></a>
-    <a href="#-quick-start"><img src="https://img.shields.io/badge/⚡_Quick_Run-161b22?style=flat-square&logo=powershell&logoColor=FFD600" height="28"/></a>
-    <a href="#-architecture-flow"><img src="https://img.shields.io/badge/🧭_Roadmap-161b22?style=flat-square&logo=diagramsdotnet&logoColor=FF007F" height="28"/></a>
-    <a href="#-contributing"><img src="https://img.shields.io/badge/🤝_Contribute-161b22?style=flat-square&logo=github&logoColor=00E676" height="28"/></a>
-  </p>
-</div>
+## 🗂️ Repository Structure
 
-<!-- NEON RAINBOW DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
+### 1. C++ Fundamentals
 
-<br/>
+| File | Topic |
+| --- | --- |
+| `Hello.cpp` | Basic C++ program and console output |
+| `Comments.cpp` | Single-line and multi-line comments |
+| `NewLines.cpp` | Newline and output formatting |
+| `Print_Number.cpp` | Printing numeric values |
+| `Identifiers.cpp` | Identifier naming rules |
+| `SingleVariable.cpp` | Declaring and using a variable |
+| `MultipleVariable.cpp` | Working with multiple variables |
+| `Constants.cpp` | Constant values using `const` |
 
-<!-- FEATURED TECH HERO -->
-<div align="center">
-  <table border="0" style="border: none;">
-    <tr>
-      <td width="45%" align="center" style="border: none;">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340px" alt="Coding Terminal Animation" style="border-radius: 12px;"/>
-      </td>
-      <td width="55%" align="left" style="border: none; padding-left: 20px;">
-        <h3>⚡ High Performance & Low-Level Control</h3>
-        <p>A structured laboratory for mastering fundamental logic, memory management, and modern C++ abstractions through clean, deterministic programs.</p>
-        <p>
-          🔹 <b>Compiled Execution:</b> Strict warning-clean code<br/>
-          🔹 <b>Modular Scope:</b> One program, one isolated concept<br/>
-          🔹 <b>Modern Standard:</b> Fully C++17/20 ready
-        </p>
-        <br/>
-        <img src="https://skillicons.dev/icons?i=cpp,c,cmake,vscode,bash,git" height="40" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 2. Data Types and Strings
 
-<br/>
+| File | Topic |
+| --- | --- |
+| `DataTypes.cpp` | Basic C++ data types |
+| `MultipleDataTypes.cpp` | Using multiple data types together |
+| `NumericTypes.cpp` | Numeric types and values |
+| `AutoDetectDataTypes.cpp` | Type deduction with `auto` |
+| `String.cpp` | Creating and using strings |
+| `StringConcatenation.cpp` | Joining strings |
+| `StringLength.cpp` | Finding string length |
+| `NumberAndString.cpp` | Working with numbers and strings |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
+### 3. Operators and Expressions
 
-## 📁 Topics & Modules
+| File | Topic |
+| --- | --- |
+| `ArithmeticOperators.cpp` | Arithmetic operations |
+| `ComparisonOperator.cpp` | Comparison and relational operators |
+| `LogicalOperator.cpp` | Logical operators: `&&`, `||`, and `!` |
+| `assingmentOperator.cpp` | Assignment and compound assignment operators |
+| `PrecdenceOperator.cpp` | Operator precedence and evaluation order |
 
-<details open>
-<summary><b>🟢 01. Standard Streams & Console Fundamentals</b></summary>
-<br/>
+### 4. Input and Calculations
 
-| Source File | Core Topic | Implementation |
-| :--- | :--- | :--- |
-| `Hello.cpp` | Entry Point | Initializing console streams via `std::cout` |
-| `NewLines.cpp` | Buffer Control | Stream control via `\n` vs buffer-flushing `std::endl` |
-| `Print_Number.cpp` | Literal Values | Terminal emission of numbers and calculations |
-| `Comments.cpp` | Documentation | Clean single (`//`) and multi-line (`/* */`) syntax |
+| File | Topic |
+| --- | --- |
+| `UserInput.cpp` | Taking input from the user |
+| `UserCalculationbyInput.cpp` | Performing calculations using user input |
+| `32_calculator.cpp` | Simple calculator program |
 
-</details>
+### 5. Functions
 
-<details open>
-<summary><b>🔵 02. Variables, Memory & Invariants</b></summary>
-<br/>
+| File | Topic |
+| --- | --- |
+| `26_average_function.cpp` | Average using a function |
+| `27_sum_odd_function.cpp` | Sum of odd numbers using a function |
+| `28_max_of_two.cpp` | Finding the maximum of two values |
+| `29_voting_eligibility.cpp` | Voting eligibility check |
+| `30_power_function.cpp` | Power calculation using a function |
+| `31_gcd_function.cpp` | GCD using a function |
 
-| Source File | Core Topic | Implementation |
-| :--- | :--- | :--- |
-| `SingleVariable.cpp` | Stack Allocation | Declaring, defining, and assigning individual variables |
-| `MultipleVariable.cpp` | Sequence Memory | Initializing multiple variables of the same type inline |
-| `Identifiers.cpp` | Token Rules | Grammar constraints and naming standards in C++ |
-| `Constants.cpp` | Immutability | Enforcing read-only memory using `const` |
+### 6. Basic Number Programs
 
-</details>
+| File | Topic |
+| --- | --- |
+| `01_electricity_bill.cpp` | Electricity bill calculation |
+| `02_atm_withdrawal.cpp` | ATM withdrawal logic |
+| `03_odd_or_even.cpp` | Odd or even check |
+| `04_leap_year.cpp` | Leap year check |
+| `05_algebraic_identity.cpp` | Algebraic identity calculation |
+| `06_count_squares.cpp` | Counting squares in a range |
+| `07_power_of_another_number.cpp` | Checking or calculating powers |
+| `08_power_of_two.cpp` | Working with powers of two |
+| `09_print_1_to_n.cpp` | Printing numbers from 1 to `n` |
+| `10_print_n_to_1.cpp` | Printing numbers from `n` to 1 |
+| `11_even_numbers_in_range.cpp` | Printing even numbers in a range |
+| `12_multiples_of_5.cpp` | Printing multiples of 5 |
+| `13_sum_of_natural_numbers.cpp` | Sum of natural numbers |
+| `14_sum_even_odd_single_loop.cpp` | Sum of even and odd numbers in one loop |
+| `15_factorial.cpp` | Factorial calculation |
+| `16_extract_digits.cpp` | Extracting digits from a number |
+| `17_count_digits.cpp` | Counting digits |
+| `18_sum_of_digits.cpp` | Sum of digits |
+| `19_reverse_digits.cpp` | Reversing digits |
+| `20_palindrome_number.cpp` | Palindrome number check |
+| `21_prime_check.cpp` | Prime number check |
+| `22_primes_up_to_n.cpp` | Printing primes up to `n` |
+| `23_armstrong_number.cpp` | Armstrong number check |
+| `24_gcd.cpp` | Greatest Common Divisor calculation |
+| `25_rotate_digits.cpp` | Rotating digits of a number |
+| `44_sieve_of_eratosthenes.cpp` | Finding primes using the Sieve of Eratosthenes |
 
-<details open>
-<summary><b>🟣 03. Data Representation & Auto Deduction</b></summary>
-<br/>
+### 7. Pattern Programs
 
-| Source File | Core Topic | Implementation |
-| :--- | :--- | :--- |
-| `DataTypes.cpp` | Primitive Types | Allocating `int`, `float`, `double`, `char`, `bool` |
-| `MultipleDataTypes.cpp` | Mixed Scopes | Interacting between diverse data types |
-| `NumericTypes.cpp` | Precision Bounds | Numerical limits, floating points, and bit allocations |
-| `AutoDetectDataTypes.cpp`| Modern Inference | Automatic compile-time type deduction with `auto` |
+| File | Topic |
+| --- | --- |
+| `33_pattern_square_star.cpp` | Square star pattern |
+| `34_pattern_1_to_n_grid.cpp` | Number grid from 1 to `n` |
+| `35_pattern_row_number_square.cpp` | Repeated row-number square |
+| `36_pattern_sequential_matrix.cpp` | Sequential number matrix |
+| `37_pattern_right_angled_star.cpp` | Right-angled star triangle |
+| `38_pattern_increasing_number_triangle.cpp` | Increasing number triangle |
+| `39_pattern_repeated_row_triangle.cpp` | Repeated-row number triangle |
+| `40_pattern_floyds_triangle.cpp` | Floyd's triangle |
+| `41_pattern_inverted_star_triangle.cpp` | Inverted star triangle |
+| `42_pattern_inverted_number_triangle.cpp` | Inverted number triangle |
+| `43_pattern_inverted_constant_triangle.cpp` | Inverted constant triangle |
 
-</details>
+### 8. Tracing, Loops, and Recursion
 
-<details>
-<summary><b>🟡 04. Strings & Text Manipulation</b></summary>
-<br/>
+| File | Topic |
+| --- | --- |
+| `45_trace_call_stack.cpp` | Understanding function call flow |
+| `46_trace_loop_sum.cpp` | Tracing a loop-based sum |
+| `47_trace_digit_count.cpp` | Tracing digit counting step by step |
+| `48_trace_digit_sum.cpp` | Tracing digit-sum logic |
+| `49_trace_function_composition.cpp` | Understanding composed function calls |
+| `50_trace_chained_function.cpp` | Tracing chained function execution |
+| `51_trace_recursive_factorial.cpp` | Recursive factorial and call-stack tracing |
 
-| Source File | Core Topic | Implementation |
-| :--- | :--- | :--- |
-| `String.cpp` | String Objects | Creating and handling dynamic string sequences |
-| `StringConcatenation.cpp` | String Math | Merging strings with `+` and `.append()` |
-| `StringLength.cpp` | Element Count | Calculating length using `.length()` and `.size()` |
-| `NumberAndString.cpp` | Type Boundary | Disambiguating string append vs numerical addition |
+## 🚀 How to Run a Program
 
-</details>
-
-<details>
-<summary><b>🔴 05. Expressions, Logic & Precedence</b></summary>
-<br/>
-
-| Source File | Core Topic | Implementation |
-| :--- | :--- | :--- |
-| `ArithmeticOperators.cpp` | Math Primitives | Integer division, modulos (`%`), and arithmetic logic |
-| `ComparisonOperator.cpp` | Relational Logic| Boundary evaluations (`==`, `!=`, `<`, `>`, `<=`, `>=`) |
-| `LogicalOperator.cpp` | Conditional Logic | Short-circuit boolean logic (`&&`, `\|\|`, `!`) |
-| `assingmentOperator.cpp` | Compound Math | In-place modifications (`+=`, `-=`, `*=`, `/=`) |
-| `PrecdenceOperator.cpp` | Order of Ops | Evaluation orders, grouping, and associativity rules |
-
-</details>
-
-<details>
-<summary><b>🟠 06. Interactive Input & Calculations</b></summary>
-<br/>
-
-| Source File | Core Topic | Implementation |
-| :--- | :--- | :--- |
-| `UserInput.cpp` | Stream Ingestion | Reading user keyboard entries via `std::cin` |
-| `UserCalculationbyInput.cpp` | Dynamic Engine | Executing interactive math calculations from user input |
-
-</details>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" />
-
-## 🚀 Quick Start
+### Clone the repository
 
 ```bash
-# 1. Clone repository
-git clone [https://github.com/himank1818-droid/CPP.git](https://github.com/himank1818-droid/CPP.git)
+git clone https://github.com/himank1818/CPP.git
 cd CPP
+```
 
-# 2. Compile any source file (with C++17 flags)
-g++ -std=c++17 -Wall NumberAndString.cpp -o NumberAndString
+### Compile a file with C++17
 
-# 3. Execute
-./NumberAndString        # Linux / macOS
-.\NumberAndString.exe    # Windows
+```bash
+g++ -std=c++17 -Wall -Wextra 03_odd_or_even.cpp -o odd_or_even
+```
+
+### Run on Linux or macOS
+
+```bash
+./odd_or_even
+```
+
+### Run on Windows
+
+```powershell
+.\odd_or_even.exe
+```
+
+You can replace `03_odd_or_even.cpp` and `odd_or_even` with any source file and output name.
+
+## 🛠️ Recommended Compiler
+
+- GCC 7 or newer
+- Clang 5 or newer
+- MSVC with C++17 support
+
+Most programs use basic C++ features and can also be compiled with newer standards such as C++20.
+
+## ✅ Notes
+
+- Every `.cpp` file is an independent practice program with its own `main()` function.
+- Compile and run one source file at a time.
+- File names are organized numerically for the problem-solving section and descriptively for the fundamentals section.
+- Some files cover related concepts, such as GCD, power calculations, and factorial, but they are separate examples rather than exact duplicates.
+
+## 🤝 Contributions
+
+Suggestions and improvements are welcome. To contribute:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Add or improve a C++ example.
+4. Test the program locally.
+5. Open a pull request with a clear description.
+
+## 📄 License
+
+No separate license file has been added to the repository yet.
+
+---
+
+Made for practicing C++ fundamentals and problem solving. 🚀
