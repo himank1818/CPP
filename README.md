@@ -1,6 +1,34 @@
+<!-- 3D ANIMATED HERO BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:7F00FF,100:FF007F&height=240&section=header&text=C%2B%2B%20Learning%20Hub&fontSize=52&fontColor=FFFFFF&animation=twinkling&stroke=00F0FF&strokeWidth=2" alt="Animated 3D-style C++ banner" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Learn+%7C+Practice+%7C+Build+with+C%2B%2B;Algorithms+%E2%80%A2+Functions+%E2%80%A2+Recursion+%E2%80%A2+Patterns;Turning+logic+into+working+programs+%F0%9F%9A%80" alt="Animated C++ learning message" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-17%20%7C%2020%20%7C%2023-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ versions" />
+  <img src="https://img.shields.io/badge/3D--Style%20Animations-Enabled-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="3D-style animations enabled" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-FF007F?style=for-the-badge&logo=git&logoColor=white" alt="Contributions welcome" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" alt="Animated divider" />
+</p>
+
 # C++ Learning Repository
 
 A structured collection of beginner-friendly C++ programs covering fundamentals, operators, input/output, functions, recursion, number problems, and pattern printing.
+
+## ✨ Animated 3D-Style Showcase
+
+This README uses lightweight animated visual elements that work directly on GitHub:
+
+- **Venom-style animated hero banner** for a 3D-inspired header effect
+- **Animated typing text** highlighting the main learning topics
+- **Animated rainbow dividers** between major sections
+- **Responsive badges and visual navigation** for a cleaner repository presentation
+
+> GitHub README files do not reliably support custom JavaScript, CSS, WebGL, or interactive 3D scenes. Therefore, these effects use safe animated SVG/GIF services that render inside GitHub Markdown.
 
 ## 📚 What This Repository Covers
 
@@ -131,6 +159,10 @@ A structured collection of beginner-friendly C++ programs covering fundamentals,
 | `50_trace_chained_function.cpp` | Tracing chained function execution |
 | `51_trace_recursive_factorial.cpp` | Recursive factorial and call-stack tracing |
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px" alt="Animated divider" />
+</p>
+
 ## 🚀 How to Run a Program
 
 ### Clone the repository
@@ -191,4 +223,8 @@ No separate license file has been added to the repository yet.
 
 ---
 
-Made for practicing C++ fundamentals and problem solving. 🚀
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=1000&color=7F00FF&center=true&vCenter=true&width=650&lines=Keep+coding+%E2%80%A2+Keep+learning+%E2%80%A2+Keep+building+%F0%9F%9A%80" alt="Animated closing message" />
+  <br />
+  Made for practicing C++ fundamentals and problem solving. 🚀
+</div>
